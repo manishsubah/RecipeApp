@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">RecipeAPP</string>
+    <string name="create_recipe">Create Recipe</string>
+    <string name="make_meal">Make Meal</string>
+    <string name="identify_food">Identify Food</string>
+    <string name="create_recipe_helper_text">Choose a food item you want to create a recipe for, and either take a photo or select one.</string>
+    <string name="identify_recipe_helper_text">Take a photo or select one to identify the food item or recipe.</string>
+    <string name="make_meal_helper_text">Snap a picture or select a photo of any food ingredient you have, and we\'ll suggest a recipe for you to make!</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="select_meal_type">Select Meal Type</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="i_want_to">I want to</string>
+
+    <string-array name="type_of_meal_plan">
+        <item>Lose Weight</item>
+        <item>Gain Weight</item>
+    </string-array>
+
+    <string-array name="meal_type">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snacks</item>
+    </string-array>
+
+    <string-array name="cuisine_type">
+        <item>Asian</item>
+        <item>Chinese</item>
+        <item>Italian</item>
+        <item>Indian</item>
+        <item>Japanese</item>
+        <item>Mexican</item>
+    </string-array>
+
+    <string-array name="gender_type">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
